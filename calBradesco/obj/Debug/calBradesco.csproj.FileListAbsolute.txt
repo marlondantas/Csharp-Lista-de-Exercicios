@@ -1,0 +1,10 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\calBradesco\bin\Debug\calBradesco.exe.config
+D:\Moon\Documentos\source\repos\PrjFundBrad\calBradesco\bin\Debug\calBradesco.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\calBradesco\bin\Debug\calBradesco.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\calBradesco\obj\Debug\calBradesco.csprojAssemblyReference.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\calBradesco\obj\Debug\calBradesco.Form1.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\calBradesco\obj\Debug\calBradesco.Properties.Resources.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\calBradesco\obj\Debug\calBradesco.csproj.GenerateResource.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\calBradesco\obj\Debug\calBradesco.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\calBradesco\obj\Debug\calBradesco.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\calBradesco\obj\Debug\calBradesco.pdb

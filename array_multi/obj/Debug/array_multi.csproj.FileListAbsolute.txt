@@ -1,0 +1,9 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\array_multi\bin\Debug\array_multi.exe.config
+D:\Moon\Documentos\source\repos\PrjFundBrad\array_multi\bin\Debug\array_multi.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\array_multi\bin\Debug\array_multi.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\array_multi\obj\Debug\array_multi.Form1.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\array_multi\obj\Debug\array_multi.Properties.Resources.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\array_multi\obj\Debug\array_multi.csproj.GenerateResource.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\array_multi\obj\Debug\array_multi.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\array_multi\obj\Debug\array_multi.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\array_multi\obj\Debug\array_multi.pdb

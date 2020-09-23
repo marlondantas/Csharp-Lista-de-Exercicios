@@ -1,0 +1,10 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\Calcular_media\bin\Debug\Calcular_media.exe.config
+D:\Moon\Documentos\source\repos\PrjFundBrad\Calcular_media\bin\Debug\Calcular_media.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Calcular_media\bin\Debug\Calcular_media.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\Calcular_media\obj\Debug\Calcular_media.Form1.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Calcular_media\obj\Debug\Calcular_media.Properties.Resources.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Calcular_media\obj\Debug\Calcular_media.csproj.GenerateResource.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Calcular_media\obj\Debug\Calcular_media.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Calcular_media\obj\Debug\Calcular_media.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Calcular_media\obj\Debug\Calcular_media.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\Calcular_media\obj\Debug\Calcular_media.csprojAssemblyReference.cache

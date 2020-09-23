@@ -1,0 +1,9 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\Condicao_IF\obj\Debug\Condicao_IF.Form1.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Condicao_IF\obj\Debug\Condicao_IF.Properties.Resources.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Condicao_IF\obj\Debug\Condicao_IF.csproj.GenerateResource.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Condicao_IF\obj\Debug\Condicao_IF.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Condicao_IF\bin\Debug\Condicao_IF.exe.config
+D:\Moon\Documentos\source\repos\PrjFundBrad\Condicao_IF\bin\Debug\Condicao_IF.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Condicao_IF\bin\Debug\Condicao_IF.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\Condicao_IF\obj\Debug\Condicao_IF.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Condicao_IF\obj\Debug\Condicao_IF.pdb

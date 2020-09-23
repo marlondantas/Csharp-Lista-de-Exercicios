@@ -1,0 +1,10 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\Tratamento_erros\bin\Debug\Tratamento_erros.exe.config
+D:\Moon\Documentos\source\repos\PrjFundBrad\Tratamento_erros\bin\Debug\Tratamento_erros.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Tratamento_erros\bin\Debug\Tratamento_erros.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\Tratamento_erros\obj\Debug\Tratamento_erros.csprojAssemblyReference.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Tratamento_erros\obj\Debug\Tratamento_erros.Form1.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Tratamento_erros\obj\Debug\Tratamento_erros.Properties.Resources.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Tratamento_erros\obj\Debug\Tratamento_erros.csproj.GenerateResource.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Tratamento_erros\obj\Debug\Tratamento_erros.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Tratamento_erros\obj\Debug\Tratamento_erros.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Tratamento_erros\obj\Debug\Tratamento_erros.pdb

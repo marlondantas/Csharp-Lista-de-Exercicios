@@ -1,0 +1,12 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFunBradConsole\bin\Debug\netcoreapp3.1\PrjFunBradConsole.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFunBradConsole\bin\Debug\netcoreapp3.1\PrjFunBradConsole.deps.json
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFunBradConsole\bin\Debug\netcoreapp3.1\PrjFunBradConsole.runtimeconfig.json
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFunBradConsole\bin\Debug\netcoreapp3.1\PrjFunBradConsole.runtimeconfig.dev.json
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFunBradConsole\bin\Debug\netcoreapp3.1\PrjFunBradConsole.dll
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFunBradConsole\bin\Debug\netcoreapp3.1\PrjFunBradConsole.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFunBradConsole\obj\Debug\netcoreapp3.1\PrjFunBradConsole.AssemblyInfoInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFunBradConsole\obj\Debug\netcoreapp3.1\PrjFunBradConsole.AssemblyInfo.cs
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFunBradConsole\obj\Debug\netcoreapp3.1\PrjFunBradConsole.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFunBradConsole\obj\Debug\netcoreapp3.1\PrjFunBradConsole.dll
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFunBradConsole\obj\Debug\netcoreapp3.1\PrjFunBradConsole.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFunBradConsole\obj\Debug\netcoreapp3.1\PrjFunBradConsole.genruntimeconfig.cache

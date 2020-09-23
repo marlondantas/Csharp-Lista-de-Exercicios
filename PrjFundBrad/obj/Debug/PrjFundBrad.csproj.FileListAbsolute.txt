@@ -1,0 +1,10 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFundBrad\bin\Debug\PrjFundBrad.exe.config
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFundBrad\bin\Debug\PrjFundBrad.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFundBrad\bin\Debug\PrjFundBrad.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFundBrad\obj\Debug\PrjFundBrad.csprojAssemblyReference.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFundBrad\obj\Debug\PrjFundBrad.Form1.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFundBrad\obj\Debug\PrjFundBrad.Properties.Resources.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFundBrad\obj\Debug\PrjFundBrad.csproj.GenerateResource.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFundBrad\obj\Debug\PrjFundBrad.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFundBrad\obj\Debug\PrjFundBrad.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\PrjFundBrad\obj\Debug\PrjFundBrad.pdb

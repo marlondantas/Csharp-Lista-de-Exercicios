@@ -1,0 +1,9 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_for\obj\Debug\Conceito_for.Form1.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_for\obj\Debug\Conceito_for.Properties.Resources.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_for\obj\Debug\Conceito_for.csproj.GenerateResource.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_for\obj\Debug\Conceito_for.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_for\bin\Debug\Conceito_for.exe.config
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_for\bin\Debug\Conceito_for.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_for\bin\Debug\Conceito_for.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_for\obj\Debug\Conceito_for.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_for\obj\Debug\Conceito_for.pdb

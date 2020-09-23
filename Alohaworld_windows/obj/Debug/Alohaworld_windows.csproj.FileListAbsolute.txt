@@ -1,0 +1,10 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\Alohaworld_windows\bin\Debug\Alohaworld_windows.exe.config
+D:\Moon\Documentos\source\repos\PrjFundBrad\Alohaworld_windows\bin\Debug\Alohaworld_windows.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Alohaworld_windows\bin\Debug\Alohaworld_windows.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\Alohaworld_windows\obj\Debug\Alohaworld_windows.Form1.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Alohaworld_windows\obj\Debug\Alohaworld_windows.Properties.Resources.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Alohaworld_windows\obj\Debug\Alohaworld_windows.csproj.GenerateResource.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Alohaworld_windows\obj\Debug\Alohaworld_windows.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Alohaworld_windows\obj\Debug\Alohaworld_windows.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Alohaworld_windows\obj\Debug\Alohaworld_windows.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\Alohaworld_windows\obj\Debug\Alohaworld_windows.csprojAssemblyReference.cache

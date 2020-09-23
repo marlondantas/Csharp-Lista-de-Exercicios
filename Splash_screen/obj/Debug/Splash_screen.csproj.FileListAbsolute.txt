@@ -1,0 +1,10 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\Splash_screen\bin\Debug\Splash_screen.exe.config
+D:\Moon\Documentos\source\repos\PrjFundBrad\Splash_screen\bin\Debug\Splash_screen.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Splash_screen\bin\Debug\Splash_screen.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\Splash_screen\obj\Debug\Splash_screen.csprojAssemblyReference.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Splash_screen\obj\Debug\Splash_screen.AboutBox1.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Splash_screen\obj\Debug\Splash_screen.Properties.Resources.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Splash_screen\obj\Debug\Splash_screen.csproj.GenerateResource.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Splash_screen\obj\Debug\Splash_screen.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Splash_screen\obj\Debug\Splash_screen.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Splash_screen\obj\Debug\Splash_screen.pdb

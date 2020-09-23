@@ -1,0 +1,11 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\Switch_case\bin\Debug\Switch_case.exe.config
+D:\Moon\Documentos\source\repos\PrjFundBrad\Switch_case\bin\Debug\Switch_case.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Switch_case\bin\Debug\Switch_case.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\Switch_case\obj\Debug\Switch_case.csprojAssemblyReference.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Switch_case\obj\Debug\Switch_case.Form1.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Switch_case\obj\Debug\Switch_case.Properties.Resources.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Switch_case\obj\Debug\Switch_case.csproj.GenerateResource.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Switch_case\obj\Debug\Switch_case.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Switch_case\obj\Debug\Switch_case.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Switch_case\obj\Debug\Switch_case.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\Switch_case\obj\Debug\Switch_case.Form2.resources

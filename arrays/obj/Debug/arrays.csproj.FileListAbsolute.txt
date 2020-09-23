@@ -1,0 +1,10 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\arrays\bin\Debug\arrays.exe.config
+D:\Moon\Documentos\source\repos\PrjFundBrad\arrays\bin\Debug\arrays.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\arrays\bin\Debug\arrays.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\arrays\obj\Debug\arrays.csprojAssemblyReference.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\arrays\obj\Debug\arrays.Form1.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\arrays\obj\Debug\arrays.Properties.Resources.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\arrays\obj\Debug\arrays.csproj.GenerateResource.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\arrays\obj\Debug\arrays.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\arrays\obj\Debug\arrays.pdb

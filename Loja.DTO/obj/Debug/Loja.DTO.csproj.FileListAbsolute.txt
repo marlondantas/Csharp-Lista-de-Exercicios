@@ -1,0 +1,6 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\Loja.DTO\bin\Debug\Loja.DTO.dll
+D:\Moon\Documentos\source\repos\PrjFundBrad\Loja.DTO\bin\Debug\Loja.DTO.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\Loja.DTO\obj\Debug\Loja.DTO.csprojAssemblyReference.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Loja.DTO\obj\Debug\Loja.DTO.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Loja.DTO\obj\Debug\Loja.DTO.dll
+D:\Moon\Documentos\source\repos\PrjFundBrad\Loja.DTO\obj\Debug\Loja.DTO.pdb

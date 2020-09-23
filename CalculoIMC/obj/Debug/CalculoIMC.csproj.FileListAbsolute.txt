@@ -1,0 +1,9 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\CalculoIMC\bin\Debug\CalculoIMC.exe.config
+D:\Moon\Documentos\source\repos\PrjFundBrad\CalculoIMC\bin\Debug\CalculoIMC.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\CalculoIMC\bin\Debug\CalculoIMC.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\CalculoIMC\obj\Debug\CalculoIMC.Form1.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\CalculoIMC\obj\Debug\CalculoIMC.Properties.Resources.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\CalculoIMC\obj\Debug\CalculoIMC.csproj.GenerateResource.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\CalculoIMC\obj\Debug\CalculoIMC.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\CalculoIMC\obj\Debug\CalculoIMC.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\CalculoIMC\obj\Debug\CalculoIMC.pdb

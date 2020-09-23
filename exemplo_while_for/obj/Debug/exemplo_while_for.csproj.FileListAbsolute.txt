@@ -1,0 +1,10 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\exemplo_while_for\bin\Debug\exemplo_while_for.exe.config
+D:\Moon\Documentos\source\repos\PrjFundBrad\exemplo_while_for\bin\Debug\exemplo_while_for.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\exemplo_while_for\bin\Debug\exemplo_while_for.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\exemplo_while_for\obj\Debug\exemplo_while_for.Properties.Resources.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\exemplo_while_for\obj\Debug\exemplo_while_for.csproj.GenerateResource.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\exemplo_while_for\obj\Debug\exemplo_while_for.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\exemplo_while_for\obj\Debug\exemplo_while_for.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\exemplo_while_for\obj\Debug\exemplo_while_for.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\exemplo_while_for\obj\Debug\exemplo_while_for.Form1.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\exemplo_while_for\obj\Debug\exemplo_while_for.Form2.resources

@@ -1,0 +1,10 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_while_true\bin\Debug\Conceito_while_true.exe.config
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_while_true\bin\Debug\Conceito_while_true.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_while_true\bin\Debug\Conceito_while_true.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_while_true\obj\Debug\Conceito_while_true.csprojAssemblyReference.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_while_true\obj\Debug\Conceito_while_true.Form1.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_while_true\obj\Debug\Conceito_while_true.Properties.Resources.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_while_true\obj\Debug\Conceito_while_true.csproj.GenerateResource.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_while_true\obj\Debug\Conceito_while_true.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_while_true\obj\Debug\Conceito_while_true.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Conceito_while_true\obj\Debug\Conceito_while_true.pdb

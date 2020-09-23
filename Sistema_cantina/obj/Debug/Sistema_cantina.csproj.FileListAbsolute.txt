@@ -1,0 +1,10 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\Sistema_cantina\bin\Debug\Sistema_cantina.exe.config
+D:\Moon\Documentos\source\repos\PrjFundBrad\Sistema_cantina\bin\Debug\Sistema_cantina.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Sistema_cantina\bin\Debug\Sistema_cantina.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\Sistema_cantina\obj\Debug\Sistema_cantina.csprojAssemblyReference.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Sistema_cantina\obj\Debug\Sistema_cantina.Form1.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Sistema_cantina\obj\Debug\Sistema_cantina.Properties.Resources.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\Sistema_cantina\obj\Debug\Sistema_cantina.csproj.GenerateResource.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Sistema_cantina\obj\Debug\Sistema_cantina.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\Sistema_cantina\obj\Debug\Sistema_cantina.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\Sistema_cantina\obj\Debug\Sistema_cantina.pdb

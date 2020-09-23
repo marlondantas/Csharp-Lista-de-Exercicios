@@ -1,0 +1,10 @@
+D:\Moon\Documentos\source\repos\PrjFundBrad\login\obj\Debug\login.Form1.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\login\obj\Debug\login.Form2.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\login\obj\Debug\login.Properties.Resources.resources
+D:\Moon\Documentos\source\repos\PrjFundBrad\login\obj\Debug\login.csproj.GenerateResource.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+D:\Moon\Documentos\source\repos\PrjFundBrad\login\bin\Debug\login.exe.config
+D:\Moon\Documentos\source\repos\PrjFundBrad\login\bin\Debug\login.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\login\bin\Debug\login.pdb
+D:\Moon\Documentos\source\repos\PrjFundBrad\login\obj\Debug\login.exe
+D:\Moon\Documentos\source\repos\PrjFundBrad\login\obj\Debug\login.pdb
